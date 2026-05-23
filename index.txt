@@ -1,2 +1,2 @@
 this is first code
-auther: Vikash gupta
+auther: Vikash gupta owner
